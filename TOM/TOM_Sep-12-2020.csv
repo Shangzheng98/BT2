@@ -1,0 +1,11 @@
+time,routeName,bus ID,LastStopName,stopCode,IsBusAtStop,IsTimePoint,latestEventTime,number of passengers remaining,percent of capacity
+2020-09-12 22:52:46.772945,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:45-04:00,0,0%
+2020-09-12 22:52:51.883960,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:45-04:00,0,0%
+2020-09-12 22:52:56.989683,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:52-04:00,0,0%
+2020-09-12 22:53:02.551218,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:58-04:00,0,0%
+2020-09-12 22:53:07.685514,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:58-04:00,0,0%
+2020-09-12 22:53:12.799626,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:58-04:00,0,0%
+2020-09-12 22:53:17.896156,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:52:58-04:00,0,0%
+2020-09-12 22:53:23.022078,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:53:19-04:00,0,0%
+2020-09-12 22:53:28.153094,TOM,6932,Progress/University Terr Nbnd,1306,N,N,2020-09-12T22:53:22-04:00,0,0%
+2020-09-12 22:53:33.266603,TOM,6932,Progress/Patrick Henry Nbnd,1307,N,N,2020-09-12T22:53:22-04:00,0,0%

@@ -1,0 +1,3 @@
+routeName,bus ID,LastStopName,stopCode,IsTimePoint,latestEventTime,number of passengers remaining,percent of capacity
+HXP,6203,Litton Reaves Hall,1116,N,2020-09-15T23:21:18-04:00,0,0%
+HXP,6203,Litton Reaves Hall,1116,N,2020-09-15T23:21:44-04:00,0,0%
